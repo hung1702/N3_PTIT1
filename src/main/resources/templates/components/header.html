@@ -1,0 +1,60 @@
+<!DOCTYPE html>
+<html lang="en"
+      xmlns:th="http://www.thymeleaf.org" xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" th:href="@{css/main.css}">
+</head>
+<body>
+
+<header th:fragment="currentUser=${currentUser}">
+    <div class="topnav">
+        <a class="active" th:href="@{/}">Home</a>
+        <span th:if="${currentUser} != null">
+            <a class="left" th:href="@{/createNewPost}">New Post</a>
+        </span>
+        <span th:if="${currentUser} != null">
+            <a class="left" th:href="@{/filter}">Filter Post</a>
+        </span>
+
+        <span th:if="${currentUser} != null">
+            <span th:if="${currentUser.role} == 'ROLE_ADMIN'">
+                <a class="left" th:href="@{/manage}">Manage User</a>
+            </span>
+        </span>
+        <span th:if="${currentUser} != null">
+            <a class="right" th:href="@{/logout}">Logout</a>
+        </span>
+        <span th:if="${currentUser} != null">
+            <a class="right" th:text="'Welcome ' + ${currentUser.userName}"></a>
+        </span>
+        <span>
+            <span th:if="${currentUser} == null">
+            <a class="right" th:href="@{/signup}">Sign Up</a>
+        </span>
+         <span th:if="${currentUser} == null">
+            <a class="right" th:href="@{/login}">Log In</a>
+        </span>
+
+            <!--            <a class="active" th:href="@{/}">Home</a>-->
+            <!--        <span sec:authorize="hasRole('ROLE_USER')">-->
+            <!--        <a class="left" th:href="@{/createNewPost}">New Post</a>-->
+            <!--        </span>-->
+            <!--        <span sec:authorize="isAuthenticated()">-->
+            <!--        <a class="right" th:href="@{/logout}">Logout</a>-->
+            <!--        </span>-->
+            <!--        <span sec:authorize="isAuthenticated()">-->
+            <!--            <a class="right">Welcome <span sec:authentication="name">name?</span></a>-->
+            <!--        </span>-->
+            <!--        <span sec:authorize="!isAuthenticated()">-->
+            <!--        <a class="right" th:href="@{/login}">Log In</a>-->
+            <!--        <a class="right" th:href="@{/signup}">Sign Up</a>-->
+        </span>
+    </div>
+    <div class="header">
+        <h5>Website Blog</h5>
+        <h3>Lập Trình và Cuộc Sống</h3>
+    </div>
+</header>
+</body>
+</html>
