@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "4iY8cTjmE/fF+cMdejmioqOkSqIhpfZ8L7vRxP/0HlYvQjX4thU8l+lP1tUarrMQnUvxYHkWXqPTGTDl4z+d8g==",
+  "success": true,
+  "projectFilePath": "D:\\THUCTAP\\EIT2_COURSE\\CODE_EIT2\\BaiTap\\TT6_SinhHoanViCS\\TT6_SinhHoanViCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}

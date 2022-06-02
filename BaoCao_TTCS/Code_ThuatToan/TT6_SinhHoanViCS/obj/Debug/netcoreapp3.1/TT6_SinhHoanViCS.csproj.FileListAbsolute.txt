@@ -1,0 +1,13 @@
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT6_SinhHoanViCS\bin\Debug\netcoreapp3.1\TT6_SinhHoanViCS.exe
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT6_SinhHoanViCS\bin\Debug\netcoreapp3.1\TT6_SinhHoanViCS.deps.json
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT6_SinhHoanViCS\bin\Debug\netcoreapp3.1\TT6_SinhHoanViCS.runtimeconfig.json
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT6_SinhHoanViCS\bin\Debug\netcoreapp3.1\TT6_SinhHoanViCS.runtimeconfig.dev.json
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT6_SinhHoanViCS\bin\Debug\netcoreapp3.1\TT6_SinhHoanViCS.dll
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT6_SinhHoanViCS\bin\Debug\netcoreapp3.1\TT6_SinhHoanViCS.pdb
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT6_SinhHoanViCS\obj\Debug\netcoreapp3.1\TT6_SinhHoanViCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT6_SinhHoanViCS\obj\Debug\netcoreapp3.1\TT6_SinhHoanViCS.AssemblyInfoInputs.cache
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT6_SinhHoanViCS\obj\Debug\netcoreapp3.1\TT6_SinhHoanViCS.AssemblyInfo.cs
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT6_SinhHoanViCS\obj\Debug\netcoreapp3.1\TT6_SinhHoanViCS.csproj.CoreCompileInputs.cache
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT6_SinhHoanViCS\obj\Debug\netcoreapp3.1\TT6_SinhHoanViCS.dll
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT6_SinhHoanViCS\obj\Debug\netcoreapp3.1\TT6_SinhHoanViCS.pdb
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT6_SinhHoanViCS\obj\Debug\netcoreapp3.1\TT6_SinhHoanViCS.genruntimeconfig.cache

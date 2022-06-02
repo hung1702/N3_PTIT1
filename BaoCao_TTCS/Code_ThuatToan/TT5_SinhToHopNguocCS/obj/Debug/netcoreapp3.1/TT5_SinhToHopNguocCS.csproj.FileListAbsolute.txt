@@ -1,0 +1,14 @@
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT5_SinhToHopNguocCS\obj\Debug\netcoreapp3.1\TT5_SinhToHopNguocCS.csproj.AssemblyReference.cache
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT5_SinhToHopNguocCS\obj\Debug\netcoreapp3.1\TT5_SinhToHopNguocCS.GeneratedMSBuildEditorConfig.editorconfig
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT5_SinhToHopNguocCS\obj\Debug\netcoreapp3.1\TT5_SinhToHopNguocCS.AssemblyInfoInputs.cache
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT5_SinhToHopNguocCS\obj\Debug\netcoreapp3.1\TT5_SinhToHopNguocCS.AssemblyInfo.cs
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT5_SinhToHopNguocCS\obj\Debug\netcoreapp3.1\TT5_SinhToHopNguocCS.csproj.CoreCompileInputs.cache
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT5_SinhToHopNguocCS\bin\Debug\netcoreapp3.1\TT5_SinhToHopNguocCS.exe
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT5_SinhToHopNguocCS\bin\Debug\netcoreapp3.1\TT5_SinhToHopNguocCS.deps.json
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT5_SinhToHopNguocCS\bin\Debug\netcoreapp3.1\TT5_SinhToHopNguocCS.runtimeconfig.json
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT5_SinhToHopNguocCS\bin\Debug\netcoreapp3.1\TT5_SinhToHopNguocCS.runtimeconfig.dev.json
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT5_SinhToHopNguocCS\bin\Debug\netcoreapp3.1\TT5_SinhToHopNguocCS.dll
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT5_SinhToHopNguocCS\bin\Debug\netcoreapp3.1\TT5_SinhToHopNguocCS.pdb
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT5_SinhToHopNguocCS\obj\Debug\netcoreapp3.1\TT5_SinhToHopNguocCS.dll
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT5_SinhToHopNguocCS\obj\Debug\netcoreapp3.1\TT5_SinhToHopNguocCS.pdb
+D:\THUCTAP\EIT2_COURSE\CODE_EIT2\BaiTap\TT5_SinhToHopNguocCS\obj\Debug\netcoreapp3.1\TT5_SinhToHopNguocCS.genruntimeconfig.cache

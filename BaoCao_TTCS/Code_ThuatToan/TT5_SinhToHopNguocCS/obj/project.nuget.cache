@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "5Cw0ry6sz09mCeW+b3i3YKLp/trvQcfa1XJ2X0K9LzWjJXpAwXMvODq7gX6fEs3Gd08ypl/YglTQWhqtta1o2Q==",
+  "success": true,
+  "projectFilePath": "D:\\THUCTAP\\EIT2_COURSE\\CODE_EIT2\\BaiTap\\TT5_SinhToHopNguocCS\\TT5_SinhToHopNguocCS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ADMIN\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.24\\microsoft.netcore.app.host.win-x64.3.1.24.nupkg.sha512"
+  ],
+  "logs": []
+}
